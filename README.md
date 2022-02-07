@@ -3,7 +3,7 @@
 [![Personality Type](https://img.shields.io/endpoint?url=https%3A%2F%2Fworkwithme.app%2Fapi%2Fbadges%2Fconfig%2Fericrallen%2Fpersonality)](https://workwithme.app/ericrallen/) [![Enneagram Type](https://img.shields.io/endpoint?url=https%3A%2F%2Fworkwithme.app%2Fapi%2Fbadges%2Fconfig%2Fericrallen%2Fenneagram)](https://workwithme.app/ericrallen/)
 [![Personality Color](https://img.shields.io/endpoint?url=https%3A%2F%2Fworkwithme.app%2Fapi%2Fbadges%2Fconfig%2Fericrallen%2Fcolor)](https://workwithme.app/ericrallen/)
 
-_Powered by [https//workwithme.app/](https://workwithme.app/ericrallen)._
+_Powered by [https//workwithme.app/](https://workwithme.app/ericrallen). and [shields.io](https://shields.io/endpoint/)._
 
 ## Status
 
