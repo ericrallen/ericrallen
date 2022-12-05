@@ -7,9 +7,7 @@ _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen). and [sh
 
 ## Status
 
-Currently building a way for Developers to share their psychometric personality profiles and collaborate and communicate better via [Work w/ Me](https://workwithme.app/).
-
-Also blogging about hiring: [How I Interview Developers](https://ericrallen.dev/blog/how-i-interview-developers/)
+Currently [writing about learning Rust](https://ericrallen.dev/blog/advent-of-rust) via [Advent of Code](https://adventofcode.com/).
 
 ### Fun Fact
 
