@@ -7,7 +7,7 @@ _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen). and [sh
 
 ## Status
 
-Currently [writing about learning Rust](https://ericrallen.dev/blog/advent-of-rust) via [Advent of Code](https://adventofcode.com/).
+Currently [writing about learning Rust](https://ericrallen.dev/blog/advent-of-rust-2022) via [Advent of Code](https://adventofcode.com/).
 
 ### Fun Fact
 
