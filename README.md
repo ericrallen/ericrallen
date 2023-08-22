@@ -7,7 +7,7 @@ _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen). and [sh
 
 ## Status
 
-Currently [playing around with AI](https://hackernoon.com/ai-prompts-are-the-incantations-that-make-chatgpt-do-magical-things), trying to create an [imagination-powered music recommendation service](https://github.com/InterwebAlchemy/beat-brain), and trying to build some [research tools](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant).
+Currently [playing around with AI](https://hackernoon.com/ai-prompts-are-the-incantations-that-make-chatgpt-do-magical-things), creating an [imagination-powered music recommendation service](https://github.com/InterwebAlchemy/beat-brain), and building some [AI research tools](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant).
 
 Previously [working on better dice rolls in JavaScript](https://github.com/DVDAGames/js-die-roller) and building [tools for D&D](https://github.com/DVDAGames/react-hex-flower-engine).
 
