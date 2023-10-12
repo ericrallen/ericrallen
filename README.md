@@ -7,9 +7,16 @@ _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen). and [sh
 
 ## Status
 
-Currently [playing around with AI](https://hackernoon.com/ai-prompts-are-the-incantations-that-make-chatgpt-do-magical-things), creating an [imagination-powered music recommendation service](https://github.com/InterwebAlchemy/beat-brain), building some [AI research tools](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant), and trying to [improve the security](https://github.com/KillianLucas/open-interpreter/pull/24) of [interesting AI projects](https://github.com/KillianLucas/open-interpreter).
+Currently [playing around with AI](https://hackernoon.com/ai-prompts-are-the-incantations-that-make-chatgpt-do-magical-things):
+
+- comparing some [traditional approaches and AI-powered approaches to tasks like sentiment analysis and emotional affect detection]()
+- creating an [imagination-powered music recommendation service](https://github.com/InterwebAlchemy/beat-brain)
+- building a [Prompt Engineering research tool](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant)
+- contributing to [Open Interpreter](https://github.com/KillianLucas/open-interpreter)
 
 Previously [working on better dice rolls in JavaScript](https://github.com/DVDAGames/js-die-roller) and building [tools for D&D](https://github.com/DVDAGames/react-hex-flower-engine).
+
+_P.S. - Also still building some tools for D&D, like an [AI-powered DM assistant](https://github.com/DVDAGames/local-tabletop-ai-demo)._
 
 ### Fun Fact
 
@@ -19,6 +26,7 @@ I've always wanted to hack into the system and say:
 
 ### Announcements
 
+- **2023-10-12**: [Gygax AI](https://github.com/DVDAGames/local-tabletop-ai-demo)
 - **2023-08-21**: [BeatBrain](https://github.com/interwebAlchemy/beat-brain) is coming
 - **2022-02-07**: Hello, [Work w/ Me](https://github.com/InterwebAlchemy/work-with-me/)
 - **2020-03-01**: RIP [@RSS bot](https://github.com/InterwebAlchemy/scrape-rss-bot/)
