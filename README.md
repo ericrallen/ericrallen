@@ -26,7 +26,7 @@ I've always wanted to hack into the system and say:
 
 ### Announcements
 
-- **2023-10-12**: [Gygax AI](https://github.com/DVDAGames/local-tabletop-ai-demo)
+- **2023-10-12**: Hey there, [Gygax AI](https://github.com/DVDAGames/local-tabletop-ai-demo)
 - **2023-08-21**: [BeatBrain](https://github.com/interwebAlchemy/beat-brain) is coming
 - **2022-02-07**: Hello, [Work w/ Me](https://github.com/InterwebAlchemy/work-with-me/)
 - **2020-03-01**: RIP [@RSS bot](https://github.com/InterwebAlchemy/scrape-rss-bot/)
