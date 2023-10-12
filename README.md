@@ -9,7 +9,7 @@ _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen). and [sh
 
 Currently [playing around with AI](https://hackernoon.com/ai-prompts-are-the-incantations-that-make-chatgpt-do-magical-things):
 
-- comparing some [traditional approaches and AI-powered approaches to tasks like sentiment analysis and emotional affect detection]()
+- comparing some [traditional approaches and AI-powered approaches to tasks like sentiment analysis and emotional affect detection](https://github.com/ericrallen/sentiment-analysis-notebook)
 - creating an [imagination-powered music recommendation service](https://github.com/InterwebAlchemy/beat-brain)
 - building a [Prompt Engineering research tool](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant)
 - contributing to [Open Interpreter](https://github.com/KillianLucas/open-interpreter)
