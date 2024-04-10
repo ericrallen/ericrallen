@@ -5,6 +5,15 @@ _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen). and [sh
 
 ## Current Status
 
+Mostly [pretending I'm a Game Developer](https://blog.dvdagames.com/posts/hello-world/).
+
+But also building a comprehensive [Prompt Injection Benchmark](https://github.com/lakeraai/pint-benchmark) for evaluating prompt injection detection solutions.
+
+## Previous Statuses
+
+Recent statuses that I've had prior to this.
+
+### The AI Update
 [Playing around with AI](https://hackernoon.com/ai-prompts-are-the-incantations-that-make-chatgpt-do-magical-things):
 
 - comparing some [traditional approaches and AI-powered approaches to tasks like sentiment analysis and emotional affect detection](https://github.com/ericrallen/sentiment-analysis-notebook)
@@ -13,7 +22,7 @@ _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen). and [sh
 - contributing to [Open Interpreter](https://github.com/KillianLucas/open-interpreter)
 - trying to [standardize model metadata](https://github.com/InterwebAlchemy/model-metadata-central) with the [AI Engineer Foundation](https://github.com/AI-Engineer-Foundation/)
 
-## Previous Status
+### The Tabletop Update
 
 Previously [working on better dice rolls in JavaScript](https://github.com/DVDAGames/js-die-roller) and building [tools for D&D](https://github.com/DVDAGames/react-hex-flower-engine).
 
