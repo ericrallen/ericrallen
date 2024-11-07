@@ -1,11 +1,11 @@
 [![Personality Type](https://img.shields.io/endpoint?url=https%3A%2F%2Fworkwithme.app%2Fapi%2Fbadges%2Fconfig%2Fericrallen%2Fpersonality)](https://workwithme.app/ericrallen/) [![Enneagram Type](https://img.shields.io/endpoint?url=https%3A%2F%2Fworkwithme.app%2Fapi%2Fbadges%2Fconfig%2Fericrallen%2Fenneagram)](https://workwithme.app/ericrallen/)
 [![Personality Color](https://img.shields.io/endpoint?url=https%3A%2F%2Fworkwithme.app%2Fapi%2Fbadges%2Fconfig%2Fericrallen%2Fcolor)](https://workwithme.app/ericrallen/)
 
-_Powered by [https//workwithme.app/](https://workwithme.app/ericrallen). and [shields.io](https://shields.io/endpoint/)._
+_Powered by [https//workwithme.app/](https://workwithme.app/ericrallen) and [shields.io](https://shields.io/endpoint/)._
 
 ## Current Status
 
-Mostly [pretending I'm a Game Developer](https://blog.dvdagames.com/posts/hello-world/).
+Mostly [pretending I'm a Game Developer](https://dvdagames.com/posts/hello-world/).
 
 But also building a comprehensive [Prompt Injection Benchmark](https://github.com/lakeraai/pint-benchmark) for evaluating prompt injection detection solutions.
 
