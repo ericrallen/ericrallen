@@ -13,6 +13,23 @@ Working at the edge of my abilities at the @RecurseCenter
 - Training a Byte Pair Encoding (BPE) tokenizer on Portable Game Notation (PGN): [pgn-tokenizer](https://github.com/DVDAGames/pgn-tokenizer)
 - Building a [chess tutoring app for beginners](https://github.com/DVDAGames/chess-tutor)
 
+## Recent Content
+
+Here are some blog posts, videos, presentations, etc. that I've posted recently:
+
+- [Your URL is an Interface, too](https://interwebalchemy.com/posts/url-bar-as-interface/)
+- [Verisimilitude in Fake Worlds](https://dvdagames.com/posts/coding-verisimilitude/)
+
+## Announcements
+- **2025-03-11**: [Share a pomodoro](https://collabodoro.work/) timer with anyone, anywhere
+- **2025-02-18**: [WTF Links](https://www.interweb.wtf/) are coming
+- **2023-10-12**: Hey there, [Gygax AI](https://github.com/DVDAGames/local-tabletop-ai-demo)
+- **2023-08-21**: [BeatBrain](https://github.com/interwebAlchemy/beat-brain) is coming
+- **2022-02-07**: Hello, [Work w/ Me](https://github.com/InterwebAlchemy/work-with-me/)
+- **2020-03-01**: RIP [@RSS bot](https://github.com/InterwebAlchemy/scrape-rss-bot/)
+
+---
+
 ## Previous Statuses
 
 Recent statuses that I've had prior to this:
@@ -38,12 +55,3 @@ Recent statuses that I've had prior to this:
 I've always wanted to hack into the system and say:
 
 > I'm in.
-
-### Announcements
-
-- **2025-03-11**: [Share a pomodoro](https://collabodoro.work/) timer with anyone, anywhere
-- **2025-02-18**: [WTF Links](https://www.interweb.wtf/) are coming
-- **2023-10-12**: Hey there, [Gygax AI](https://github.com/DVDAGames/local-tabletop-ai-demo)
-- **2023-08-21**: [BeatBrain](https://github.com/interwebAlchemy/beat-brain) is coming
-- **2022-02-07**: Hello, [Work w/ Me](https://github.com/InterwebAlchemy/work-with-me/)
-- **2020-03-01**: RIP [@RSS bot](https://github.com/InterwebAlchemy/scrape-rss-bot/)
