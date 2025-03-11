@@ -5,11 +5,11 @@ _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen) and [shi
 
 ## Current Status: The Recurse Center
 
-Working at the edge of my abilities at the @RecurseCenter
+Working at the edge of my abilities at the [Recurse Center](https://www.recurse.com/scout/click?t=1b9ee5f39bb35af1073bda78cf4cabdf).
 
 - Builiding a shared, synchronized, open-source pomodoro timer: [collabordo.work](https://github.com/InterwebAlchemy/collabodoro)
 - Building a privacy-respecting, user-focused URL Shortener: [interweb.wtf](https://github.com/InterwebAlchemy/interweb.wtf)
-- Working at the edge of my abilities at the [Recurse Center](https://www.recurse.com/scout/click?t=1b9ee5f39bb35af1073bda78cf4cabdf)
+- Building a fun little desktop pet because it's still the '90s in my heart: [gl1tch-pet](https://github.com/DVDAGames/gl1tch-pet)
 - Training a Byte Pair Encoding (BPE) tokenizer on Portable Game Notation (PGN): [pgn-tokenizer](https://github.com/DVDAGames/pgn-tokenizer)
 - Building a [chess tutoring app for beginners](https://github.com/DVDAGames/chess-tutor)
 
