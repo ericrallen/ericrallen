@@ -49,9 +49,3 @@ Recent statuses that I've had prior to this:
 #### The Tabletop Update
 - [working on better dice rolls in JavaScript](https://github.com/DVDAGames/js-die-roller) and building [tools for D&D](https://github.com/DVDAGames/react-hex-flower-engine).
 - building some tools for D&D while playing around with AI, like an [AI-powered DM assistant](https://github.com/DVDAGames/local-tabletop-ai-demo)
-
-### Fun Fact
-
-I've always wanted to hack into the system and say:
-
-> I'm in.
