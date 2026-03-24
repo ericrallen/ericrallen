@@ -1,22 +1,21 @@
+<img width="1536" height="1024" alt="wave" src="https://github.com/user-attachments/assets/237d37c4-69e8-4493-a729-8226576db9d6" />
+
 [![Personality Type](https://img.shields.io/endpoint?url=https%3A%2F%2Fworkwithme.app%2Fapi%2Fbadges%2Fconfig%2Fericrallen%2Fpersonality)](https://workwithme.app/ericrallen/) [![Enneagram Type](https://img.shields.io/endpoint?url=https%3A%2F%2Fworkwithme.app%2Fapi%2Fbadges%2Fconfig%2Fericrallen%2Fenneagram)](https://workwithme.app/ericrallen/)
 [![Personality Color](https://img.shields.io/endpoint?url=https%3A%2F%2Fworkwithme.app%2Fapi%2Fbadges%2Fconfig%2Fericrallen%2Fcolor)](https://workwithme.app/ericrallen/)
 
 _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen) and [shields.io](https://shields.io/endpoint/)._
 
-## Current Status: The Recurse Center
+## Current Status: Just Vibin'
 
-Working at the edge of my abilities at the [Recurse Center](https://www.recurse.com/scout/click?t=1b9ee5f39bb35af1073bda78cf4cabdf).
-
-- Building a shared, synchronized, open-source Pomodoro timer: [collabordo.work](https://github.com/InterwebAlchemy/collabodoro)
-- Building a privacy-respecting, user-focused URL Shortener: [interweb.wtf](https://github.com/InterwebAlchemy/interweb.wtf)
-- Building a fun little desktop pet because it's still the '90s in my heart: [gl1tch-pet](https://github.com/DVDAGames/gl1tch-pet)
-- Training a Byte Pair Encoding (BPE) tokenizer on Portable Game Notation (PGN): [pgn-tokenizer](https://github.com/DVDAGames/pgn-tokenizer)
-- Building a [chess tutoring app for beginners](https://github.com/DVDAGames/chess-tutor)
+- Building some chess-specific small language models trained only on PGN strings: [DVDAGames/kn1ght](https://github.com/DVDAGames/kn1ght)
+- Also curating and releasing PGN datasets relevant to training these models: https://huggingface.co/collections/InterwebAlchemy/kn1ght
 
 ## Recent Content
 
 Here are some blog posts, videos, presentations, etc. that I've posted recently:
 
+- [Computer Chess: The Byte Pair Encoding Variation](https://interwebalchemy.com/blog/post/chess-byte-pair-encoding/)
+- [Recursing: A Sabbatical Story](https://interwebalchemy.com/blog/post/recursing-a-sabbatical-story/)
 - [Your URL is an Interface, too](https://interwebalchemy.com/blog/post/url-bar-as-interface/)
 - [Verisimilitude in Fake Worlds](https://dvdagames.com/posts/coding-verisimilitude/)
 
@@ -33,6 +32,17 @@ Here are some blog posts, videos, presentations, etc. that I've posted recently:
 ## Previous Statuses
 
 Recent statuses that I've had prior to this:
+
+#### The Recurse Center
+
+Working at the edge of my abilities at the [Recurse Center](https://www.recurse.com/scout/click?t=1b9ee5f39bb35af1073bda78cf4cabdf).
+
+- Building a shared, synchronized, open-source Pomodoro timer: [collabordo.work](https://github.com/InterwebAlchemy/collabodoro)
+- Building a privacy-respecting, user-focused URL Shortener: [interweb.wtf](https://github.com/InterwebAlchemy/interweb.wtf)
+- Building a fun little desktop pet because it's still the '90s in my heart: [gl1tch-pet](https://github.com/DVDAGames/gl1tch-pet)
+- Training a Byte Pair Encoding (BPE) tokenizer on Portable Game Notation (PGN): [pgn-tokenizer](https://github.com/DVDAGames/pgn-tokenizer)
+- Building a [chess tutoring app for beginners](https://github.com/DVDAGames/chess-tutor)
+
 
 #### The GameDev Update
 - Mostly [pretending I'm a Game Developer](https://dvdagames.com/posts/hello-world/).
