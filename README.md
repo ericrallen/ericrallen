@@ -7,6 +7,7 @@ _Powered by [https//workwithme.app/](https://workwithme.app/ericrallen) and [shi
 
 ## Current Status: Just Vibin'
 
+- Building a continuity layer for vendor-agnostic, cross-harness agents with persistent memory and persona: [Engram](https://github.com/InterwebAlchemy/engram)
 - Building some chess-specific small language models trained only on PGN strings: [DVDAGames/kn1ght](https://github.com/DVDAGames/kn1ght)
 - Also curating and releasing PGN datasets relevant to training these models: https://huggingface.co/collections/InterwebAlchemy/kn1ght
 
